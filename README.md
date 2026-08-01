@@ -1,7 +1,7 @@
 ## My name is Mahmoud Ahmed 👋
 ### A versatile and skilled data engineer, proficient in SQL, Python, PL/SQL, C, C#, and cloud technologies, with a strong focus on ETL/ELT processes, data warehousing, and visualization tools like Tableau and PowerBI.
 - 🔭 I’m currently working on ELT pipelines
-- 🌱 I’m currently learning SSIS
+- 🌱 I’m currently learning Snowflake
 - 👯 I’m looking to collaborate on ETL 
 - 💬 Ask me about any database concepts
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmoud-ahmed-b54692238/)
