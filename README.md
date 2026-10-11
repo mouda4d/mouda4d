@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Engineer</b> &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Snowflake &nbsp;·&nbsp; dbt &nbsp;·&nbsp; Python<br>
-  Alexandria, Egypt — open to relocation
+  Cairo, Egypt — open to relocation
 </p>
 
 <p align="center">
